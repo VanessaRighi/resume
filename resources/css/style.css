@@ -1,0 +1,44 @@
+ /* Skills */
+
+ .container#skills p {
+    
+    justify-content: space-around;
+    padding: 5px;
+    
+}
+
+.container .col-2:hover{
+    color: #00B2CA;
+    
+}
+/* Projects show case */
+
+.slide-label {
+    margin-top: 30px;
+    text-align: center;
+    color: #D36582;    
+}
+
+.slide-label a{
+    color: #D36582;
+}
+
+
+/* Main formatting */
+
+header{
+    background-color: #00B2CA;
+}
+
+nav{
+    background-color: #50514F;
+    color: gray
+}
+
+main h6{
+    color: #DB8098;
+}
+
+main h2{
+    color: #D36582;
+} 
